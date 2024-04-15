@@ -2,7 +2,6 @@
 ------------------------Code documentation------------------------
 Created : 4/10/24
 Author  : Patel, Vraj K.
-To do   : Post this program to the GitHub
 */
 #include <iostream>
 #include <vector>
