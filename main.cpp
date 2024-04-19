@@ -25,6 +25,7 @@ int main() {
     int i = 0;  //  counter for the following loop
     int element;
     while (i < size) {
+        std::cout << "Element " << (i % n) + 1 << ": ";
         std::cin >> element;
         matrix.push_back(element);
         i++;
